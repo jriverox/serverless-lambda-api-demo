@@ -1,0 +1,19 @@
+{
+  "name": "lambda-api-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "json2csv": "^5.0.3",
+    "lambda-api": "^0.10.6",
+    "mongoose": "^5.9.25",
+    "yenv": "^2.1.1"
+  }
+}

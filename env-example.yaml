@@ -1,0 +1,2 @@
+development:
+  MONGODB_URL: "mongodb+srv://<user here>:<password here>@cluster0-8hxu4.mongodb.net/contacts?retryWrites=true&w=majority"
